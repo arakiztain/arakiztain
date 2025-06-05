@@ -14,18 +14,18 @@
 ## 🏅 Certificados The Bridge - FullStack Web Developer
 
 <p align="center">
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - Backend development - 2025-05-05.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - CSS - 2025-03-07.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - Docker - 2025-05-05.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - ES6 - 2025-03-27.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - Express.js - 2025-05-05.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - GitHub - 2025-05-05.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - HTML - 2025-03-07.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - JavaScript - 2025-03-27.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - MongoDB - 2025-05-29.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - Node.js - 2025-05-05.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - React - 2025-05-29.png" width="140"/>
-  <img src="./assets/badges/FullStack Web Developer - The Bridge School - SQL - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - Backend development - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - CSS - 2025-03-07.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - Docker - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - ES6 - 2025-03-27.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - Express.js - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - GitHub - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - HTML - 2025-03-07.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - JavaScript - 2025-03-27.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - MongoDB - 2025-05-29.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - Node.js - 2025-05-05.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - React - 2025-05-29.png" width="140"/>
+  <img src="./assets/FullStack Web Developer - The Bridge School - SQL - 2025-05-05.png" width="140"/>
 </p>
 
 
